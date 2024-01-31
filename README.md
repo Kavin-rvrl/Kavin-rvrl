@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-ak&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-ak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavin-ak" alt="kavin-ak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kavinoggy" target="blank"><img src="https://img.shields.io/twitter/follow/kavinoggy?logo=twitter&style=for-the-badge" alt="kavinoggy" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Databases, APIs**
