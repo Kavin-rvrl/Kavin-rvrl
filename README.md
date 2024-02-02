@@ -29,7 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin-ak&show_icons=true&locale=en" alt="kavin-ak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavin-ak&" alt="kavin-ak" /></p>
-##GitHub Trophies
+
+
+GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavin-ak&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
