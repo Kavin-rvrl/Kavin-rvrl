@@ -7,7 +7,7 @@
 
 
 # About Me:
-📖 Pursuing Bachelor of Technology in Information Technology<br>🌱 Learning Backend Development with Spotknack<br>📈 I'm a Hungry Learner<br>🤩 Fun fact about me : i am not funny
+📖 Pursuing Bachelor of Technology in Information Technology<br>🌱 Learning Backend Development at Spotknack<br>📈 I'm a Hungry Learner<br>🤩 Fun fact about me : I am funny
 
 
 ## 🌐 Socials:
