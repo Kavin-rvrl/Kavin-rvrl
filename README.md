@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">An Emerging Backend Developer!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-ak&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-ak" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kavin-ak&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-ak" /> </p>
 
 
 
